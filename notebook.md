@@ -10,3 +10,9 @@
  - Evaluated the possibility of adding Docker and Kubernetes to the CM scripts. 
  - For that I had to read and learn on Docker, Swarm and Kubernetes and ran a test with minikube.
  - Added some doc changes to the cm/vagrant script
+
+#### 09/21 - 09/28
+ - Installed the OS in the Raspberry Pi Cluster
+ - Did research on what Pi is, what can we do ...etc. 
+ - Researching on Apache Spark and it's clusters
+ - Started working on an Ansible Script to setup the Spark Cluster
