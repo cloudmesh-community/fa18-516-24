@@ -7,13 +7,13 @@ owner:
 
 section:
     - title: TBD
-         url: TBD
+      url: TBD
 chapter:
     - title: title of the chapter
-         url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
+      url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
 project:
     - title: Running Spark on a Raspberry Pi Cluster
-         url: https://github.com/cloudmesh-community/fa18-516-24/tree/master/project-paper
+      url: https://github.com/cloudmesh-community/fa18-516-24/tree/master/project-paper
 other:
     - activity: Contributed to the CM Vagrant Script
-         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
