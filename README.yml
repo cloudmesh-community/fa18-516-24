@@ -9,10 +9,12 @@ section:
     - title: TBD
       url: TBD
 chapter:
-    - title: title of the chapter
+    - title: TBD
+      keyword: Pi Spark
       url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
 project:
     - title: Running Spark on a Raspberry Pi Cluster
+      keyword: Pi Spark
       url: https://github.com/cloudmesh-community/fa18-516-24/tree/master/project-paper
 other:
     - activity: Contributed to the CM Vagrant Script
