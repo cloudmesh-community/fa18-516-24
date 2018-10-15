@@ -8,7 +8,7 @@ owner:
 section:
     - title: TBD
       url: TBD
-chapter:
+paper:
     - title: TBD
       keyword: Pi Spark
       url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
