@@ -6,16 +6,21 @@ owner:
   community: "e516"
 
 section:
-    - title: TBD
-      url: TBD
-paper:
-    - title: TBD
-      keyword: Pi Spark
-      url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
+    - title: Config file
+         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
+chapter:
+    - title: Spark on Pi-Cluster
+         url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
 project:
-    - title: Running Spark on a Raspberry Pi Cluster
-      keyword: Pi Spark
-      url: https://github.com/cloudmesh-community/fa18-516-24/tree/master/project-paper
+    - title: cm4
+        url: https://github.com/cloudmesh-community/cm
+    
 other:
     - activity: Contributed to the CM Vagrant Script
-      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
+         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
+    - activity: Running Spark on a Raspberry Pi Cluster
+         url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md
+    - activity: Config file
+         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
+    - activity: Counter
+         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
