@@ -18,8 +18,8 @@ project:
 other:
     - activity: Contributed to the CM Vagrant Script
          url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
-    - activity: Running Spark on a Raspberry Pi Cluster
-         url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md
+    - activity: Ansible Spark Cluster
+         url: https://github.com/swsachith/pi-spark-cluster
     - activity: Config file
          url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
     - activity: Counter
