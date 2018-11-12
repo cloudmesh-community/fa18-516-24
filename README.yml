@@ -7,20 +7,20 @@ owner:
 
 section:
     - title: Config file
-         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
 chapter:
     - title: Spark on Pi-Cluster
-         url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
+      url: https://github.com/cloudmesh-community/book/blob/master/chapters/pi/clusters/pi-spark.md         
 project:
     - title: cm4
-        url: https://github.com/cloudmesh-community/cm
+      url: https://github.com/cloudmesh-community/cm
     
 other:
     - activity: Contributed to the CM Vagrant Script
-         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/vagrant
     - activity: Ansible Spark Cluster
-         url: https://github.com/swsachith/pi-spark-cluster
+      url: https://github.com/swsachith/pi-spark-cluster
     - activity: Config file
-         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
     - activity: Counter
-         url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
+      url: https://github.com/cloudmesh-community/cm/tree/master/cm4/configuration
